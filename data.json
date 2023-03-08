@@ -1,0 +1,9 @@
+{
+    "name": "Bruce Wayne",
+    "address": {
+        "street": "123 Main St",
+        "city": "Gotham",
+        "state": "GT",
+        "zip": "94107"
+    }
+}
